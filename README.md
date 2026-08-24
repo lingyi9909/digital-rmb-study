@@ -11,7 +11,7 @@
 - [x] [Day 1：钱到底是什么？](week-01-money-and-banking/day-01-what-is-money.md)
 - [x] [Day 2：商业银行如何创造货币？](week-01-money-and-banking/day-02-bank-money-creation.md)
 - [x] [Day 3：M0、M1、M2 与基础货币](week-01-money-and-banking/day-03-m0-m1-m2.md)
-- [ ] Day 4：中央银行到底是干什么的？
+- [x] [Day 4：中央银行到底是干什么的？](week-01-money-and-banking/day-04-central-bank.md)
 - [ ] Day 5：货币政策如何传导？
 - [ ] Day 6：通胀、通缩与货币价值
 - [ ] Day 7：第一周复盘与综合案例
@@ -65,4 +65,4 @@ flowchart TD
 
 ## 当前进度
 
-已完成 Week 1 的 Day 1～Day 3。下一课：**Day 4｜中央银行到底是干什么的？**
+已完成 Week 1 的 Day 1～Day 4。下一课：**Day 5｜货币政策如何传导？**
