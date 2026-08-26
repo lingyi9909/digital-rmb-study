@@ -13,7 +13,7 @@
 - [x] [Day 3：M0、M1、M2 与基础货币](week-01-money-and-banking/day-03-m0-m1-m2.md)
 - [x] [Day 4：中央银行到底是干什么的？](week-01-money-and-banking/day-04-central-bank.md)
 - [x] [Day 5：货币政策如何传导？](week-01-money-and-banking/day-05-monetary-policy-transmission.md)
-- [ ] Day 6：通胀、通缩与货币价值
+- [x] [Day 6：通胀、通缩与货币价值](week-01-money-and-banking/day-06-inflation-deflation.md)
 - [ ] Day 7：第一周复盘与综合案例
 
 ### Week 2｜数字人民币基础
@@ -65,4 +65,4 @@ flowchart TD
 
 ## 当前进度
 
-已完成 Week 1 的 Day 1～Day 5。下一课：**Day 6｜通胀、通缩与货币价值。**
+已完成 Week 1 的 Day 1～Day 6。下一课：**Day 7｜第一周复盘与综合案例。**
